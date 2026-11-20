@@ -126,12 +126,12 @@ def header(theme, colors):
     lead, left, width = text("design director who ", 0, 216, REGULAR, 31, ink)
     body.append(lead)
     marked_x = left + width + 7
-    marked = outline("ships code", REGULAR, 31)
+    marked = outline("ships", REGULAR, 31)
     # The site's hover state, held still: amber behind dark ink.
     body.append(f'<rect x="{n(marked_x - 7)}" y="186" width="{n(marked["width"] + 14)}" height="42" fill="{AMBER}"/>')
-    body.append(text("ships code", marked_x, 216, REGULAR, 31, AMBER_INK)[0])
+    body.append(text("ships", marked_x, 216, REGULAR, 31, AMBER_INK)[0])
 
-    write("header", theme, WIDTH, 236, body, "Tucker Spofford, design director who ships code")
+    write("header", theme, WIDTH, 236, body, "Tucker Spofford, design director who ships")
 
 
 def label(slug, string, theme, colors):

@@ -1,5 +1,5 @@
 <p>
-<a href="https://tucker.xxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Tucker Spofford, design director who ships code"></picture></a>
+<a href="https://tucker.xxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Tucker Spofford, design director who ships"></picture></a>
 </p>
 
 I direct product design at [Topaz Labs](https://tucker.xxx/portfolio/topaz), where we make AI image and video software. Before that I led the UX design of the Steam Deck™ at [Valve](https://tucker.xxx/portfolio/valve), built the aerospace design system at [Blue Origin](https://tucker.xxx/portfolio/blue-origin), shipped the [Tangerine](https://tucker.xxx/portfolio/tangerine) banking app used by millions of Canadians, and went from intern to design director at [Artefact](https://tucker.xxx/portfolio/artefact). Fifteen-plus years of taking products from zero to one, now from Dallas, TX.
